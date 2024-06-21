@@ -2,6 +2,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gruns0989)](https://solved.ac/gruns0989)
+🌱 I’m currently learning
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
