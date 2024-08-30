@@ -16,7 +16,7 @@
 ![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=parseler&layout=compact&theme=dark)[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=gruns0989)](https://solved.ac/gruns0989)
 
 <!-- 깃허브 커밋 그래프 -->
-![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=Aleph-Kim&theme=react-dark)
+![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=parseler&theme=react-dark)
 
 
 <!-- 스킬 -->
