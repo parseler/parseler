@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cd7e7e,100:5f6abf&height=180&text=Parseley&animation=&fontColor=ffffff&fontSize=70)
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cd7e7e,100:5f6abf&height=180&text=Parseley&animation=&fontColor=ffffff&fontSize=70) -->
 
 ## 🎓 Education & Career
 - 2018.03 ~ 2024.02 : 연세대학교 건축공학과
