@@ -1,10 +1,11 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cd7e7e,100:5f6abf&height=180&text=Parseley&animation=&fontColor=ffffff&fontSize=70) -->
 
-## 🎓 Education & Career
-- **18.03 ~ 24.02** : Yonsei University, Department of Architectural Engineering  
-- **24.01 ~ 24.08** : Trainee, Samsung Software Academy For Youth 11th
-- **24.08 ~ Present** : LOTTE INNOVATE  
+## 💼 Work Experience
+- 🏢 **Lotte Innovate** (2024.08 ~ Present)
 
+## 📚 Education & Training
+- 💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)
+- 🎓 **Yonsei University** – Department of Architectural Engineering (2018.03 ~ 2024.02)
 
 ## 🏅 Stats
 
@@ -14,7 +15,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gruns0989)](https://solved.ac/gruns0989)
 
-## 📚 Skills
+## 🛠️ Skills
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
