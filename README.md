@@ -1,9 +1,10 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cd7e7e,100:5f6abf&height=180&text=Parseley&animation=&fontColor=ffffff&fontSize=70) -->
 
 ## 🎓 Education & Career
-- 2018.03 ~ 2024.02 : 연세대학교 건축공학과
-- 2024.01 ~ 2024.08 : SSAFY (Samsung Software Academy For Youth) 11기 교육생
-- 2024.08 ~ 현재 : 롯데이노베이트
+- **18.03 ~ 24.02** : Yonsei University, Department of Architectural Engineering  
+- **24.01 ~ 24.08** : Trainee, Samsung Software Academy For Youth 11th
+- **24.08 ~ Present** : LOTTE INNOVATE  
+
 
 ## 🏅 Stats
 
