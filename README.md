@@ -1,7 +1,7 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cd7e7e,100:5f6abf&height=180&text=Parseley&animation=&fontColor=ffffff&fontSize=70) -->
 
 ## 💼 Work Experience
-- 🏢 **Lotte Innovate** (2024.08 ~ Present)
+- 🏢 **LOTTE INNOVATE** (2024.08 ~ Present)
 
 ## 📚 Education & Training
 - 💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)
